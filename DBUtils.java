@@ -1,1 +1,2 @@
-THis java classcontainsthe DB related code
+THis java classcontainsthe DB related code..
+This Line Updating Now For Change In Logic...
